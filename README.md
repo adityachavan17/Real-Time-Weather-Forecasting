@@ -17,9 +17,9 @@ A backend machine learning model designed to predict rainfall ("Rain Tomorrow") 
 
 # Installation
 1. Clone the repository:
-    ```bash
-   git clone https://github.com/yourusername/weather-prediction-backend.git
-   ```
+ ```bash
+git clone https://github.com/yourusername/weather-prediction-backend.git
+```
    
 2.Install dependencies:
 
