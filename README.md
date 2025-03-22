@@ -17,10 +17,15 @@ A backend machine learning model designed to predict rainfall ("Rain Tomorrow") 
 
 # Installation
 1. Clone the repository:
-   '''bash
+    ```bash
    git clone https://github.com/yourusername/weather-prediction-backend.git
+   ```
+   
 2.Install dependencies:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 3. Obtain an API key from OpenWeatherMap and replace the placeholder in the code.
 
 # Usage
