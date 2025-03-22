@@ -27,7 +27,7 @@ git clone https://github.com/yourusername/weather-prediction-backend.git
     pip install -r requirements.txt
   ```
 
-3. Obtain an API key from OpenWeatherMap and replace the placeholder in the code.
+3.Obtain an API key from OpenWeatherMap and replace the placeholder in the code.
 
 # Usage
 1.Save your historical weather data as weather.csv in the project folder.
@@ -44,7 +44,7 @@ git clone https://github.com/yourusername/weather-prediction-backend.git
 
 1.weather_prediction.py: Main backend script with data processing and model logic.
 
-2. requirements.txt: List of required Python libraries.
+2.requirements.txt: List of required Python libraries.
 
 3.README.md: Project documentation.
 
