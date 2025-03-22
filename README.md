@@ -22,9 +22,10 @@ A backend machine learning model designed to predict rainfall ("Rain Tomorrow") 
    ```
    
 2.Install dependencies:
-    ```bash
+
+  ```bash
     pip install -r requirements.txt
-    ```
+  ```
 
 3. Obtain an API key from OpenWeatherMap and replace the placeholder in the code.
 
