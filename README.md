@@ -21,34 +21,34 @@ A backend machine learning model designed to predict rainfall ("Rain Tomorrow") 
 git clone https://github.com/yourusername/weather-prediction-backend.git
 ```
    
-2.Install dependencies:
+2. Install dependencies:
 
   ```bash
     pip install -r requirements.txt
   ```
 
-3.Obtain an API key from OpenWeatherMap and replace the placeholder in the code.
+3. Obtain an API key from OpenWeatherMap and replace the placeholder in the code.
 
 # Usage
-1.Save your historical weather data as weather.csv in the project folder.
+1. Save your historical weather data as weather.csv in the project folder.
 
-2.Run the script:
+2. Run the script:
 ```bash
     python weather_prediction.py
   ```
 
-3.Enter a city name when prompted to get predictions.
+3. Enter a city name when prompted to get predictions.
 
 
 # Project Structure
 
-1.weather_prediction.py: Main backend script with data processing and model logic.
+1. weather_prediction.py: Main backend script with data processing and model logic.
 
-2.requirements.txt: List of required Python libraries.
+2. requirements.txt: List of required Python libraries.
 
-3.README.md: Project documentation.
+3. README.md: Project documentation.
 
 # Notes
-1.This is a backend-only implementation; frontend integration (e.g., GUI or web app) can be added separately.
+1. This is a backend-only implementation; frontend integration (e.g., GUI or web app) can be added separately.
 
-2.Replace 'Api key' in the code with your own OpenWeatherMap API key.
+2. Replace 'Api key' in the code with your own OpenWeatherMap API key.
