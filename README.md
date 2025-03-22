@@ -1,10 +1,6 @@
 # Real-Time-Weather-Forecasting
 Built backend ML model to predict "Rain Tomorrow" with weather data (temp, humidity, wind, pressure). Preprocessed using Pandas, applied RandomForestClassifier/Regressor (MSE 0.16). Integrated OpenWeatherMap API for real-time data. Designed for frontend, uses Scikit-Learn/Pandas.
 
-# Weather Prediction Backend Model
-
-A backend machine learning model designed to predict rainfall ("Rain Tomorrow") and forecast temperature/humidity trends using historical and real-time weather data.
-
 # Features
 - Predicts rainfall using RandomForestClassifier with a mean squared error of 0.16.
 - Forecasts future temperature and humidity using RandomForestRegressor.
