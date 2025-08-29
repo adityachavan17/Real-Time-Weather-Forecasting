@@ -1,0 +1,44 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Databases
+*.db
+weather_db.sqlite
